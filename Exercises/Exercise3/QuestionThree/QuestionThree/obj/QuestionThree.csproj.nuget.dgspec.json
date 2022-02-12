@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nati\\source\\repos\\QuestionThree\\QuestionThree\\QuestionThree.csproj": {}
+    "C:\\Users\\Nati\\Documents\\GitHub\\Exercises\\Exercises\\Exercise3\\QuestionThree\\QuestionThree\\QuestionThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nati\\source\\repos\\QuestionThree\\QuestionThree\\QuestionThree.csproj": {
+    "C:\\Users\\Nati\\Documents\\GitHub\\Exercises\\Exercises\\Exercise3\\QuestionThree\\QuestionThree\\QuestionThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nati\\source\\repos\\QuestionThree\\QuestionThree\\QuestionThree.csproj",
+        "projectUniqueName": "C:\\Users\\Nati\\Documents\\GitHub\\Exercises\\Exercises\\Exercise3\\QuestionThree\\QuestionThree\\QuestionThree.csproj",
         "projectName": "QuestionThree",
-        "projectPath": "C:\\Users\\Nati\\source\\repos\\QuestionThree\\QuestionThree\\QuestionThree.csproj",
+        "projectPath": "C:\\Users\\Nati\\Documents\\GitHub\\Exercises\\Exercises\\Exercise3\\QuestionThree\\QuestionThree\\QuestionThree.csproj",
         "packagesPath": "C:\\Users\\Nati\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nati\\source\\repos\\QuestionThree\\QuestionThree\\obj\\",
+        "outputPath": "C:\\Users\\Nati\\Documents\\GitHub\\Exercises\\Exercises\\Exercise3\\QuestionThree\\QuestionThree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Nati\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

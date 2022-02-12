@@ -12,6 +12,7 @@ namespace Exercise3
         {
             FileOption fileOption = new FileOption();
             fileOption.CopySourceToDestination(sourceFile, destinationFile);
+            Console.WriteLine(fileOption.status);
           
         }
 
